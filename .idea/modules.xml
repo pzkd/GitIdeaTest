@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Debuger/Debuger.iml" filepath="$PROJECT_DIR$/Debuger/Debuger.iml" />
-      <module fileurl="file://$PROJECT_DIR$/GitIdeaTest.iml" filepath="$PROJECT_DIR$/GitIdeaTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShiroT/ShiroT.iml" filepath="$PROJECT_DIR$/ShiroT/ShiroT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShiroT/ShiroT01/ShiroT01.iml" filepath="$PROJECT_DIR$/ShiroT/ShiroT01/ShiroT01.iml" />
     </modules>
   </component>
 </project>
