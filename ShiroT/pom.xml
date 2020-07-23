@@ -10,9 +10,12 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>ShiroT01</module>
+        <module>Shiro_SSM</module>
+        <module>SSM_Shiro</module>
     </modules>
     <properties>
         <shiro-version>1.5.3</shiro-version>
+        <logging.version>1.2</logging.version>
     </properties>
 
     <dependencyManagement>
@@ -22,6 +25,12 @@
                 <artifactId>shiro-core</artifactId>
                 <version>${shiro-version}</version>
             </dependency>
+            <dependency>
+                <groupId>commons-logging</groupId>
+                <artifactId>commons-logging</artifactId>
+                <version>${logging.version}</version>
+            </dependency>
+
         </dependencies>
     </dependencyManagement>
 
